@@ -2,8 +2,8 @@
 ### Adds Wickerbeast model!
 
 ## Instructions
-- Requires [ModelReplacementAPI.](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI)
-- Build your own Wickerbeast asset bundle through Unity. [Steps here.](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI/wiki/Using-the-Unity-Workflow)
+- Requires [ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI) and the [avatar itself.](https://jinapark.gumroad.com/l/JinsWickerbeast)
+- Build your own Wickerbeast asset bundle through Unity. [Guide here.](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI/wiki/Using-the-Unity-Workflow)
 - Ensure that the Asset Bundle Name is "LethalWicker".
 - Ensure that the Asset Name is "LethalWickerPrefab".
 - Package for Visual Studio.
