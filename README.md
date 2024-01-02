@@ -9,7 +9,7 @@
 - Package for Visual Studio.
 - Put your "lethalwicker" and "lethalwicker.manifest" into the "LethalWicker" project folder.
 - Build the Solution, make sure to check for missing dependencies.
-- Grab your LethalWicker.dll and put it into the mod folder. (plugins/Froze-LethalWicker)
+- Grab your "LethalWicker.dll" and put it into the mod plugin folder.
 - Ensure that ModelReplacementAPI plugin is also installed.
 - Set your preferred replacement suits in the config, or enable it for all suits.
 
