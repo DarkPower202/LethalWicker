@@ -19,6 +19,9 @@
 ## Note
 May be buggy.
 
+## Credits
+Jin A - Model author
+
 ## Changelog
 	- v1.0.0
 		- Initial release.
