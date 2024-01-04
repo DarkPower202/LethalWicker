@@ -1,5 +1,5 @@
 # LethalWicker
-### Adds Wickerbeast model!
+### Adds Wickerbeast player model to Lethal Company.
 
 ## Instructions
 - Requires [ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI) and the [avatar itself.](https://jinapark.gumroad.com/l/JinsWickerbeast)
