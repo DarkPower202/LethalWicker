@@ -9,7 +9,7 @@ Note that this repo does not contain the avatar model file itself. You must own 
 - Place your "lethalwicker" and "lethalwicker.manifest" into the VS project folder.
 - Build the Solution.
 - Grab your "LethalWicker.dll" and put it into the mod plugin folder.
-- Ensure that ModelReplacementAPI, More Suits & TooManySuits is also installed.
+- Ensure that ModelReplacementAPI, [More Suits](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/) & [TooManySuits](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits/) is also installed.
 - Set your preferred replacement suits in the config, or enable it for all suits.
 
 ## Known Issues
