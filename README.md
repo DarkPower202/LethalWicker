@@ -1,6 +1,6 @@
 # LethalWicker
 ### Adds (custom/your own) Wickerbeast player model(s) to Lethal Company.
-Note that this repo does not contain the model file itself.
+Note that this repo does not contain avatar the model file itself.
 Therefore, you must own the avatar & build it yourself.
 
 ## Instructions
