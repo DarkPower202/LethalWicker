@@ -1,16 +1,14 @@
 # LethalWicker
-### Adds (custom/your own) Wickerbeast player model to Lethal Company.
+### Adds (custom/your own) Wickerbeast player model(s) to Lethal Company.
 
 ## Instructions
 - Requires [ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI) and ownership of the [avatar.](https://jinapark.gumroad.com/l/JinsWickerbeast)
 - Build your own Wickerbeast asset bundle through Unity. [Guide here.](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI/wiki/Using-the-Unity-Workflow)
-- Ensure that the Asset Bundle Name is "LethalWicker".
-- Ensure that the Asset Name is "LethalWickerPrefab".
 - Package for Visual Studio.
-- Put your "lethalwicker" and "lethalwicker.manifest" into the "LethalWicker" project folder.
-- Build the Solution, make sure to check for missing dependencies.
+- Place your "lethalwicker" and "lethalwicker.manifest" into the VS project folder.
+- Build the Solution.
 - Grab your "LethalWicker.dll" and put it into the mod plugin folder.
-- Ensure that ModelReplacementAPI plugin is also installed.
+- Ensure that ModelReplacementAPI, More Suits & TooManySuits is also installed.
 - Set your preferred replacement suits in the config, or enable it for all suits.
 
 ## Known Issues
@@ -23,7 +21,7 @@ May be buggy.
 Jin A - Model author
 
 ## Changelog
-	- v1.0.0
+    - v1.0.0
         - Initial release.
     - v1.0.1 - v1.0.3
         - Minor changes.
