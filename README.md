@@ -16,7 +16,7 @@ Note that this repo does not contain the avatar model file itself. You must own 
 - To be found.
 
 ## Note
-May be buggy.
+- If the suits aren't loading, try resetting the mod's config but don't delete !less-suits.txt.
 
 ## Credits
 Jin A - Model author
