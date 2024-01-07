@@ -32,3 +32,5 @@ Jin A - Model author
         - More Suits is required to use other variations.
     - v2.0.1
         - Minor changes.
+    - v2.0.2
+        - Fixed folder naming issue causing the suit not to load.
